@@ -21,7 +21,7 @@ All documentation you will need regarding the Marketo specific requirements can 
 - Make banner "button" editable, both text and href
 - Embed Marketo form to the landing page which can be found here: https://app-lon02.marketo.com/#FO1520A1ZN13LA1
 - Make a small javascript that prefills your first name, last name and email address in the Marketo form in the script file. Not inline in the HTML.
-- Remove the 'dist' folder from the .gitignore file, stage & commit your changes and let your contact within LeadFabric know you're done.
+- Remove the 'dist' folder from the .gitignore file, stage & commit your changes and let your contact within LeadFabric know you're done, including a link to your fork or create a pull request.
 
 **Bonus:**
 - Add a boolean that shows/hide the H2 title and make it hidden by default
