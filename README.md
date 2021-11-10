@@ -16,7 +16,6 @@ Note that we use a version of Gulp-SASS for this project and Gulp runs all tasks
 
 ### Requirements:
 
-- Fork the repo
 - Create your own branch containing your first and last name
 - The project requires dependencies, those are missing. Install Gulp, install the dependencies and compile the project using the 'gulp' command.
 - Add SASS/SCSS style & Marketo form to recreate the [design](/app/img/brief.png) provided in the [img folder](/app/img), all other assets can be found in [this folder](/app/img) as well.
